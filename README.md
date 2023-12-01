@@ -15,7 +15,7 @@ Telefrens is the first SocialFi bot in crypto, from the team that built Collab.L
 
 <!-- Badge row 2 - links and profiles -->
 
-[![Website collab.land](https://img.shields.io/website-up-down-green-red/https/telefrens.com)](https://telefrens.com)
+[![Website Telefrens](https://img.shields.io/website-up-down-green-red/https/telefrens.com)](https://www.telefrens.com/kols?utm_medium=display&utm_source=github&utm_campaign=tf_brand_kit)
 [![Blog](https://img.shields.io/badge/blog-up-green)](https://collabland.mirror.xyz/)
 [![Docs](https://img.shields.io/badge/docs-up-green)](https://docs.collab.land/telefrens/intro)
 [![Discord](https://img.shields.io/discord/904119310702772254?label=discord)](https://discord.gg/collabland)
