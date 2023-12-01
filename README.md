@@ -29,6 +29,14 @@ Telefrens is the first SocialFi bot in crypto, from the team that built Collab.L
 ### Guide
 
 <!-- Please see [this PDF overview](guide/guide.pdf). -->
+#### Font
+[Fira Sans Condensed](https://fonts.google.com/specimen/Fira+Sans+Condensed)
+
+#### Colors
+- Yellow: #FCEE21
+- Orange: #FF4C00
+- Dark Lime green: #C7E416
+- Mid lime green: #EEFD96
 
 ### Logos
 <!--
