@@ -1,6 +1,8 @@
 <!-- This repo uses Collab.Land as a reference https://github.com/abridged/brand-kit/tree/main
 and a lot of dynamic Badges https://shields.io/docs/ -->
 
+![Telefrens](logo.png)
+
 # Telefrens brand-kit
 
 Brand guide and logos for the Telefrens brand.
@@ -48,8 +50,6 @@ Get started with [Telefrens](https://www.telefrens.com/).
 - Mid lime green: #EEFD96
 
 ### Logos
-
-<img alt="Wordmark" src="/logo/wordmark/characters-logo-ar128-89.png" width="250">
 
 | Symbol                                                                | Wordmark                                                                |
 | --------------------------------------------------------------------  | ----------------------------------------------------------------------- |
