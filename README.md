@@ -31,37 +31,36 @@ Get started with [Telefrens](https://www.telefrens.com/).
 ### Guide
 
 <!-- Please see [this PDF overview](guide/guide.pdf). -->
+
 #### Font
+
 [Fira Sans Condensed](https://fonts.google.com/specimen/Fira+Sans+Condensed)
 
 #### Colors
+
 - Yellow: #FCEE21
+
 - Orange: #FF4C00
+
 - Dark Lime green: #C7E416
+
 - Mid lime green: #EEFD96
 
 ### Logos
-<!--
-<img alt="InProduct" src="logo/in-product/CollabLand-Logo-Mark-Color.svg" width="250">
 
-<!-- ![InProduct](logo/in-product/CollabLand-Logo-Mark-Color.svg) -->
-<!--
+<img alt="Wordmark" src="/logo/wordmark/characters-logo-ar128-89.png" width="250">
+
 | Symbol                                                                | Wordmark                                                                |
 | --------------------------------------------------------------------  | ----------------------------------------------------------------------- |
-| ![LogoColor](logo/symbol/CollabLand-Logo-Mark-Color.svg)              | ![WordmarkColor](logo/wordmark/CollabLand-Full-Logo-Color.svg)          |
-| ![LogoWhite](logo/symbol/CollabLand-Logo-Mark-White-Outline.svg)      | ![WordmarkWhite](logo/wordmark/CollabLand-Full-Logo-White-Outline.svg)  |
-| ![LogoBlack](logo/symbol/CollabLand-Logo-Mark-Black-Outline.svg)      | ![WordmarkBlack](logo/wordmark/CollabLand-Full-Logo-Black-Outline.svg)  |
--->
+| ![LogoColor-ar2-1](logo/symbol/telefrens-logo-2-1.png)              | ![WordmarkColor-ar128-89](logo/wordmark/characters-logo-ar128-89.png)          |
+| ![LogoColor-ar2-1-zoomed](logo/symbol/telefrens-logo-zoomed-2-1.png)      | ![WordmarkColor-ar41-29](logo/wordmark/characters-logo-ar41-29.png)  |
+| ![LogoColor-ar64-21](logo/symbol/telefrens-logo-64-21.png)              | ![WordmarkColor-notag-ar128-89](logo/wordmark/characters-logo-notag-ar128-89.png)          |
 
-<!-- ### Mascot - ACE
+### Heroes
 
-| Mascot                                                      |
+| Heroes                                                      |
 | ----------------------------------------------------------- |
-| <img alt="Mascot" src="mascot/CollabLand-Mascot-ACE-Regular.png" width="250"> |
-| <img alt="MascotFlying" src="mascot/CollabLand-Mascot-ACE-Flying.png" width="250"> |
-| <img alt="MascotDancing" src="mascot/CollabLand-Mascot-ACE-Dancing.png" width="250"> |
-| <img alt="MascotWaving" src="mascot/CollabLand-Mascot-ACE-Waving.png" width="250"> |
--->
+| <img alt="Heroes" src="/all-chars/heroes-ar128-73.png" width="250"> |
 
 ## Branding Kit Rules & Guidelines
 
