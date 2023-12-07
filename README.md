@@ -2,6 +2,7 @@
 and a lot of dynamic Badges https://shields.io/docs/ -->
 
 # Telefrens brand-kit
+
 Brand guide and logos for the Telefrens brand.
 
 Telefrens is the first SocialFi bot in crypto, from the team that built [Collab.Land](https://github.com/abridged/brand-kit). Get Pass access to Token Gated groups and royalties rewards for Creators on Pass transactions.
