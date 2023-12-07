@@ -1,10 +1,12 @@
-<!-- This repo uses BASE as a reference https://github.com/base-org/brand-kit/tree/main
+<!-- This repo uses Collab.Land as a reference https://github.com/abridged/brand-kit/tree/main
 and a lot of dynamic Badges https://shields.io/docs/ -->
 
 # Telefrens brand-kit
 Brand guide and logos for the Telefrens brand.
 
-Telefrens is the first SocialFi bot in crypto, from the team that built Collab.Land. Get Pass access to Token Gated groups and royalties rewards for Creators on Pass transactions.
+Telefrens is the first SocialFi bot in crypto, from the team that built [Collab.Land](https://github.com/abridged/brand-kit). Get Pass access to Token Gated groups and royalties rewards for Creators on Pass transactions.
+
+Get started with [Telefrens](https://www.telefrens.com/).
 
 <!-- Badge row 1 - status -->
 
